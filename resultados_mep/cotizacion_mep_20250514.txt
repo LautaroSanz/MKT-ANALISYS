@@ -1,0 +1,10 @@
+Fecha: 2025-05-14 17:16:29
+Cotización promedio Dólar MEP: $1139.70
+Cotización mínima: $1137.20
+Cotización máxima: $1142.75
+
+Pares de bonos utilizados:
+AL29 ($83400.00) / AL29D ($73.15) = $1140.12
+AL30 ($77500.00) / AL30D ($68.15) = $1137.20
+AL35 ($78800.00) / AL35D ($69.20) = $1138.73
+AL41 ($74050.00) / AL41D ($64.80) = $1142.75
